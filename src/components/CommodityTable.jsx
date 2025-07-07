@@ -87,13 +87,13 @@ const CommodityTable = ({ commodities }) => {
               sx={{
                 color: "black",
                 fontWeight: "bold",
-                fontSize: "1.5vw",
+                fontSize: "1.8vw",
                 textAlign: "center",
                 padding: "10px",
               }}
               colSpan={2}
             >
-              COMMODITY
+              METAL
             </TableCell>
             <TableCell
               sx={{

@@ -61,7 +61,7 @@ const NewsTicker = ({ newsItems }) => {
               component="span"
               sx={{
                 display: "inline-block",
-                color: "white",
+                color: "black",
                 fontSize: "1.3vw",
                 fontWeight: "500",
                 fontFamily: "montserrat, sans-serif",

@@ -202,7 +202,7 @@ function TvScreen() {
         direction="row"
         alignItems="flex-start"
         justifyContent="space-between"
-        className="px-20 py-10"
+        className="px-10 py-10"
       >
         {/* Side: SpotRate */}
         <Grid item xs={12} md={5}>
